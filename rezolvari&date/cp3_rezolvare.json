@@ -1,0 +1,49 @@
+{
+  "answers": {
+    "main": {
+      "incident_type": "DATA_EXFILTRATION",
+      "affected_service": "DATABASE",
+      "first_confirmed_at": "2026-11-20T14:53:30Z"
+    },
+    "case_01": {
+      "incident_type": "UNAUTHORIZED_ACCESS",
+      "affected_service": "COMPUTE",
+      "first_confirmed_at": "2026-11-20T12:31:09Z"
+    },
+    "case_02": {
+      "incident_type": "UNAUTHORIZED_ACCESS",
+      "affected_service": "STORAGE",
+      "first_confirmed_at": "2026-11-20T10:34:07Z"
+    },
+    "case_03": {
+      "incident_type": "DATA_EXFILTRATION",
+      "affected_service": "DATABASE",
+      "first_confirmed_at": "2026-11-20T18:13:42Z"
+    },
+    "case_04": {
+      "incident_type": "PRIVILEGE_ESCALATION",
+      "affected_service": "STORAGE",
+      "first_confirmed_at": "2026-11-20T11:23:19Z"
+    },
+    "case_05": {
+      "incident_type": "PRIVILEGE_ESCALATION",
+      "affected_service": "COMPUTE",
+      "first_confirmed_at": "2026-11-20T19:47:40Z"
+    },
+    "case_06": {
+      "incident_type": "SERVICE_OUTAGE",
+      "affected_service": "DATABASE",
+      "first_confirmed_at": "2026-11-20T19:37:14Z"
+    },
+    "case_07": {
+      "incident_type": "UNAUTHORIZED_ACCESS",
+      "affected_service": "STORAGE",
+      "first_confirmed_at": "2026-11-20T15:20:42Z"
+    },
+    "case_08": {
+      "incident_type": "UNAUTHORIZED_ACCESS",
+      "affected_service": "BILLING",
+      "first_confirmed_at": "2026-11-20T14:20:16Z"
+    }
+  }
+}

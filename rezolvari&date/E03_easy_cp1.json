@@ -1,0 +1,468 @@
+{
+  "cases": {
+    "case_01": [
+      {
+        "clearance": 8,
+        "record_id": "op-32",
+        "region": "europe-west1",
+        "revoked": "false",
+        "status": "ACTIVE",
+        "tag": "RT-J5Z98N",
+        "updated_at": "2026-11-20T14:46:00Z"
+      },
+      {
+        "clearance": 8,
+        "record_id": "op-20",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-7KBGRE",
+        "updated_at": "2026-11-20T10:42:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-65",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-QSBBQ8",
+        "updated_at": "2026-11-20T14:21:00Z"
+      },
+      {
+        "clearance": null,
+        "record_id": "op-75",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-5FV4GC",
+        "updated_at": "2026-11-20T14:36:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-44",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-NQMHHU",
+        "updated_at": "2026-11-20T10:48:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-42",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-2YS3VX",
+        "updated_at": "2026-11-20T16:15:00Z"
+      }
+    ],
+    "case_02": [
+      {
+        "clearance": 9,
+        "record_id": "op-56",
+        "region": "us-central1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-PJAQPJ",
+        "updated_at": "2026-11-20T15:08:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-77",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-MWQMAQ",
+        "updated_at": "2026-11-20T14:19:00Z"
+      },
+      {
+        "clearance": 5,
+        "record_id": "op-57",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-HTGZF5",
+        "updated_at": "2026-11-20T11:55:00Z"
+      },
+      {
+        "clearance": 8,
+        "record_id": "op-48",
+        "region": "europe-west1",
+        "status": "ACTIVE",
+        "tag": "RT-9HR5FU",
+        "updated_at": "2026-11-20T14:26:00Z"
+      },
+      {
+        "clearance": 5,
+        "record_id": "op-69",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-F2TW8R",
+        "updated_at": "2026-11-20T13:28:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-85",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "Active",
+        "tag": "RT-KHM56K",
+        "updated_at": "2026-11-20T15:53:00Z"
+      },
+      {
+        "clearance": "7",
+        "record_id": "op-82",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-7AWFBA",
+        "updated_at": "2026-11-20T14:35:00Z"
+      }
+    ],
+    "case_03": [
+      {
+        "clearance": 6,
+        "record_id": "op-66",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-UZXBAD",
+        "updated_at": "2026-11-20T14:46:00Z"
+      },
+      {
+        "clearance": 7,
+        "record_id": "op-87",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-PWZZQQ",
+        "updated_at": "2026-11-20T10:06:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-117",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-STKGQ3",
+        "updated_at": "2026-11-20T14:46:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-47",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-AMPMXA",
+        "updated_at": "2026-11-20T12:47:00Z"
+      }
+    ],
+    "case_04": [
+      {
+        "clearance": 8,
+        "record_id": "op-37",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-7SXVWQ",
+        "updated_at": "2026-11-20T10:16:00Z"
+      },
+      {
+        "clearance": 8,
+        "record_id": "op-50",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-ESPC88",
+        "updated_at": "2026-11-20T09:40:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-89",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-X9DAS3",
+        "updated_at": "2026-11-20T10:16:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-86",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-4X8V43",
+        "updated_at": "2026-11-20T09:05:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-136",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-9FN4HM",
+        "updated_at": "2026-11-20T10:16:00Z"
+      },
+      {
+        "clearance": 5,
+        "record_id": "op-41",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-3HAAPB",
+        "updated_at": "2026-11-20T06:56:00Z"
+      }
+    ],
+    "case_05": [
+      {
+        "clearance": 8,
+        "record_id": "op-77",
+        "region": "europe-west1",
+        "status": "ACTIVE",
+        "tag": "RT-FGF75R",
+        "updated_at": "2026-11-20T17:42:00Z"
+      },
+      {
+        "clearance": 8,
+        "record_id": "op-44",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-XD3W5E",
+        "updated_at": "2026-11-20T16:32:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-70",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-6RW79Y",
+        "updated_at": "2026-11-20T14:39:00Z"
+      },
+      {
+        "clearance": 7,
+        "record_id": "op-21",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-ESEYW3",
+        "updated_at": "2026-11-20T16:00:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-34",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-N6JSB6",
+        "updated_at": "2026-11-20T15:18:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-68",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "active",
+        "tag": "RT-58TSEC",
+        "updated_at": "2026-11-20T17:08:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-90",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-ERN8GB",
+        "updated_at": "2026-11-20T13:21:00Z"
+      }
+    ],
+    "case_06": [
+      {
+        "clearance": 6,
+        "record_id": "op-90",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-CYYPW4",
+        "updated_at": "2026-11-20T10:31:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-66",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-XBJ5GA",
+        "updated_at": "2026-11-20T07:44:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-96",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-BJ7FE3",
+        "updated_at": "2026-11-20T07:48:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-180",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-BQARW5",
+        "updated_at": "2026-11-20T10:31:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-69",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-6R4AS8",
+        "updated_at": "2026-11-20T06:48:00Z"
+      }
+    ],
+    "case_07": [
+      {
+        "clearance": 7,
+        "record_id": "op-54",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-YAN3ZM",
+        "updated_at": "2026-11-20T07:39:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-92",
+        "region": "europe-west3",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-PMDUKH",
+        "updated_at": "2026-11-20T10:25:00Z"
+      },
+      {
+        "clearance": 8,
+        "record_id": "op-34",
+        "region": "europe-west1",
+        "revoked": "false",
+        "status": "ACTIVE",
+        "tag": "RT-DD2RRN",
+        "updated_at": "2026-11-20T10:16:00Z"
+      },
+      {
+        "clearance": 7,
+        "record_id": "op-42",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-RBQU3P",
+        "updated_at": "2026-11-20T09:13:00Z"
+      },
+      {
+        "clearance": "9",
+        "record_id": "op-58",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-JZGN8W",
+        "updated_at": "2026-11-20T10:21:00Z"
+      },
+      {
+        "clearance": 5,
+        "record_id": "op-28",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-966BW8",
+        "updated_at": "2026-11-20T08:38:00Z"
+      }
+    ],
+    "case_08": [
+      {
+        "clearance": 3,
+        "record_id": "op-98",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-87YZZD",
+        "updated_at": "2026-11-20T16:13:00Z"
+      },
+      {
+        "clearance": 7,
+        "record_id": "op-48",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-7JJB8Z",
+        "updated_at": "2026-11-20T14:27:00Z"
+      },
+      {
+        "clearance": 7,
+        "record_id": "op-27",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "DISABLED",
+        "tag": "RT-DBPZBC",
+        "updated_at": "2026-11-20T13:25:00Z"
+      },
+      {
+        "clearance": 8,
+        "record_id": "op-38",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "REVOKED",
+        "tag": "RT-FP8SEA",
+        "updated_at": "2026-11-20T15:10:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-80",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-DTGQYC",
+        "updated_at": "2026-11-20T11:53:00Z"
+      },
+      {
+        "clearance": 9,
+        "record_id": "op-90",
+        "region": "europe-west1",
+        "revoked": true,
+        "status": "ACTIVE",
+        "tag": "RT-6W97KW",
+        "updated_at": "2026-11-20T15:56:00Z"
+      },
+      {
+        "clearance": null,
+        "record_id": "op-41",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-3MH8JR",
+        "updated_at": "2026-11-20T14:39:00Z"
+      },
+      {
+        "clearance": 6,
+        "record_id": "op-42",
+        "region": "europe-west1",
+        "revoked": false,
+        "status": "ACTIVE",
+        "tag": "RT-J9RFTX",
+        "updated_at": "2026-11-20T13:57:00Z"
+      }
+    ],
+    "main": {
+      "firestore": {
+        "collection_path": "teams/e03-ya45nnnkv4mvy6s2/operators",
+        "project_id": "coderun-task"
+      }
+    }
+  },
+  "checkpoint": 1,
+  "team_id": "E03",
+  "track": "EASY"
+}

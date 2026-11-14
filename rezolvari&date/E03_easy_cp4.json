@@ -1,0 +1,311 @@
+{
+  "cases": {
+    "case_01": {
+      "files": [
+        {
+          "incident_at": "09:53:13",
+          "name": "compute_095313.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1IWFYyNTMifQ==",
+          "service": "COMPUTE"
+        },
+        {
+          "incident_at": "12:39:14",
+          "name": "gateway_123914.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy05RldEWjIifQ==",
+          "service": "GATEWAY"
+        },
+        {
+          "incident_at": "09:53:32",
+          "name": "database_095332.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1KMjbDgkU0Iiwibm90ZSI6IkFyaGl2xIMgdmVyaWZpY2F0xIMgZGUgb3BlcmF0b3Ig4pyTIOKAlCByZWN1cGVyYXJlIEFzdGVyQ2xvdWQifQ==",
+          "service": "DATABASE"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T09:53:32Z",
+        "service": "DATABASE"
+      }
+    },
+    "case_02": {
+      "files": [
+        {
+          "incident_at": "11:23:06",
+          "name": "storage_112306.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1VMlA5UVEifQ==",
+          "service": "STORAGE"
+        },
+        {
+          "incident_at": "11:32:04",
+          "name": "storage_113204.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1UWEJQNzMifQ==",
+          "service": "STORAGE"
+        },
+        {
+          "incident_at": "11:31:29",
+          "name": "auth_113129.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1GWTVDNDkiLCJub3RlIjoiYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90In0",
+          "service": "AUTH"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T11:31:29Z",
+        "service": "AUTH"
+      }
+    },
+    "case_03": {
+      "files": [
+        {
+          "incident_at": "16:58:48",
+          "name": "compute_165848.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1HOE1SVFQifQ==",
+          "service": "COMPUTE"
+        },
+        {
+          "incident_at": "15:11:10",
+          "name": "auth_151110.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy03R0c5OTcifQ==",
+          "service": "AUTH"
+        },
+        {
+          "incident_at": "15:10:54",
+          "name": "database_151054.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1VQVFTRDgiLCJub3RlIjoi\nYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90In0=",
+          "service": "DATABASE"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T15:10:54Z",
+        "service": "DATABASE"
+      }
+    },
+    "case_04": {
+      "files": [
+        {
+          "incident_at": "12:55:21",
+          "name": "gateway_125521.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy0yQzNCUk0ifQ==",
+          "service": "GATEWAY"
+        },
+        {
+          "incident_at": "14:12:23",
+          "name": "database_141223.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1BOUFXNjMifQ==",
+          "service": "DATABASE"
+        },
+        {
+          "incident_at": "14:11:51",
+          "name": "gateway_141151.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1HSFBWQUIifQ==",
+          "service": "GATEWAY"
+        },
+        {
+          "incident_at": "14:12:23",
+          "name": "gateway_141223.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1DRE04NFUiLCJub3RlIjoiYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90In0=",
+          "service": "GATEWAY"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T14:12:23Z",
+        "service": "GATEWAY"
+      }
+    },
+    "case_05": {
+      "files": [
+        {
+          "incident_at": "13:58:50",
+          "name": "storage_135850.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy01U01OMzQifQ==",
+          "service": "STORAGE"
+        },
+        {
+          "incident_at": "13:58:13",
+          "name": "compute_135813.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy04SjJFNEIifQ==",
+          "service": "COMPUTE"
+        },
+        {
+          "incident_at": "11:27:54",
+          "name": "storage_112754.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1SSFMzNEYifQ==",
+          "service": "STORAGE"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T13:58:13Z",
+        "service": "STORAGE"
+      }
+    },
+    "case_06": {
+      "files": [
+        {
+          "incident_at": "11:45:34",
+          "name": "billing_114534.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy05NjhLSzcifQ==",
+          "service": "BILLING"
+        },
+        {
+          "incident_at": "09:18:07",
+          "name": "compute_091807.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1aUjYzQ0UifQ==",
+          "service": "COMPUTE"
+        },
+        {
+          "incident_at": "09:17:35",
+          "name": "storage_091735.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy03SFNTTlUiLCJub3RlIjoiQXJjaGl26SwgdulyaWZp6SBwYXIgb3DpcmF0ZXVyIiwicGFkIjoieCJ9",
+          "service": "STORAGE"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T09:17:35Z",
+        "service": "STORAGE"
+      }
+    },
+    "case_07": {
+      "files": [
+        {
+          "incident_at": "13:49:24",
+          "name": "database_134924.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1VMzI5N0EifQ==",
+          "service": "DATABASE"
+        },
+        {
+          "incident_at": "12:51:18",
+          "name": "billing_125118.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1EQzg1QTMifQ==",
+          "service": "BILLING"
+        },
+        {
+          "incident_at": "13:49:17",
+          "name": "gateway_134917.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1BVUc4Mk4iLCJub3RlIjoiYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90Iix9",
+          "service": "GATEWAY"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T13:49:17Z",
+        "service": "GATEWAY"
+      }
+    },
+    "case_08": {
+      "files": [
+        {
+          "incident_at": "12:56:09",
+          "name": "database_125609.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1BQkpVRTYifQ==",
+          "service": "DATABASE"
+        },
+        {
+          "incident_at": "10:49:42",
+          "name": "database_104942.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1NV0dTRkMifQ==",
+          "service": "DATABASE"
+        },
+        {
+          "incident_at": "10:48:59",
+          "name": "billing_104859.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1aTlA0VFcifQ==",
+          "service": "BILLING"
+        },
+        {
+          "incident_at": "10:48:59",
+          "name": "database_104859.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1LTlZSQUsiLCJub3RlIjoiYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90In0=",
+          "service": "DATABASE"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T10:48:59Z",
+        "service": "DATABASE"
+      }
+    },
+    "case_09": {
+      "files": [
+        {
+          "incident_at": "14:20:19",
+          "name": "auth_142019.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1RQ0JLN1MifQ==",
+          "service": "AUTH"
+        },
+        {
+          "incident_at": "15:34:36",
+          "name": "auth_153436.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1TUDlNUTIifQ==",
+          "service": "AUTH"
+        },
+        {
+          "incident_at": "15:34:55",
+          "name": "gateway_153455.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJRVUFSQU5USU5FRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1CN0tVRkgiLCJub3RlIjoiYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90In0=",
+          "service": "GATEWAY"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T15:34:55Z",
+        "service": "GATEWAY"
+      }
+    },
+    "case_10": {
+      "files": [
+        {
+          "incident_at": "07:47:41",
+          "name": "database_074741.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy03TUY4TTQifQ==",
+          "service": "DATABASE"
+        },
+        {
+          "incident_at": "09:25:35",
+          "name": "billing_092535.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1QN0g2NjkifQ==",
+          "service": "BILLING"
+        },
+        {
+          "incident_at": "09:26:01",
+          "name": "auth_092601.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJ2ZXJpZmllZCIsInJlY292ZXJ5X2NvZGUiOiJSQy1BVjdYVUgiLCJub3RlIjoiYXJjaGl2ZWQgYnkgcmVjb3ZlcnkgYm90In0=",
+          "service": "AUTH"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T09:26:01Z",
+        "service": "AUTH"
+      }
+    },
+    "case_11": {
+      "files": [
+        {
+          "incident_at": "08:46:07",
+          "name": "billing_084607.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1STjJKVlEifQ==",
+          "service": "BILLING"
+        },
+        {
+          "incident_at": "09:09:01",
+          "name": "database_090901.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCIsInJlY292ZXJ5X2NvZGUiOiJSQy1HNjlTNEMifQ==",
+          "service": "DATABASE"
+        },
+        {
+          "incident_at": "09:09:06",
+          "name": "auth_090906.txt",
+          "payload_b64": "eyJzdGF0dXMiOiJWRVJJRklFRCAiLCJyZWNvdmVyeV9jb2RlIjoiUkMtSEdQVTg5Iiwibm90ZSI6ImFyY2hpdmVkIGJ5IHJlY292ZXJ5IGJvdCIsInBhZCI6IngifQ==",
+          "service": "AUTH"
+        }
+      ],
+      "incident": {
+        "at": "2026-11-20T09:09:06Z",
+        "service": "AUTH"
+      }
+    },
+    "main": {
+      "drive": {
+        "folder_id": "1Z4Dta4wSSKglMocJyEoVt3VQcb0hJ4IB",
+        "folder_url": "https://drive.google.com/drive/folders/1Z4Dta4wSSKglMocJyEoVt3VQcb0hJ4IB"
+      }
+    }
+  },
+  "checkpoint": 4,
+  "team_id": "E03",
+  "track": "EASY"
+}

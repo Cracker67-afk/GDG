@@ -1,0 +1,16 @@
+{
+  "checkpoint": 2,
+  "function_name": "validateAccess",
+  "main": {
+    "request_id": "acc-6kgf29",
+    "required_region": "us-central1",
+    "user": {
+      "clearance": 1,
+      "region": "asia-east1",
+      "revoked": false,
+      "status": "ACTIVE"
+    }
+  },
+  "team_id": "E03",
+  "track": "EASY"
+}
